@@ -1,0 +1,16 @@
+
+21 Feb 2004  Tomas Styblo  <tripie@cpan.org>
+  * An important warning that all files in the activation directory
+    are deleted has been added to the configuration dialog.
+  * The bundled irssi notification plugin has been enhanced.
+  * Version 1.02 has been released.
+
+28 Nov 2003  Tomas Styblo  <tripie@cpan.org>
+  * An "activation directory" feature was added.
+  * Texts of notification messages received when a popup is active,
+    are no longer silently discarded. Instead, they are appended to the popup.
+  * The irssi-trayicons.pl plugin was updated to use activation directories.
+  * Version 1.01 was released.
+
+16 Nov 2003  Tomas Styblo  <tripie@cpan.org>
+  * Initial release.

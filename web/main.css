@@ -1,0 +1,75 @@
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#td-index {
+    padding: 2em;
+    padding-top: 1em;
+    padding-left: 0px;
+    background-color: rgb(230,230,250);
+    color: black;
+}
+
+#td-index a:visited {
+    color: black;
+}
+
+#td-index a {
+    color: rgb(0,0,255);
+}
+
+#index-imgs {
+    margin-left: 20px;
+}
+
+#td-main {
+    padding: 2em;
+    padding-top: 0px;
+}
+
+#title {
+    background-color: rgb(230,230,250);
+    color: black;
+    padding: 8px;
+    margin-top: 0px;
+}
+
+#version {
+    background-color: rgb(230,230,250);
+    color: black;
+    padding: 8px;
+    margin-top: 0px;
+}
+
+#changelog {
+    margin-left: 10px;
+}
+
+#td-scr {
+    background-color: rgb(230,230,250);
+    padding: 0px;
+}
+
+#img-scr {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+.th-desc {
+    font-size: 10pt;
+    padding: 8px;
+}
+
+.th-enlarge {
+    font-size: 8pt;
+    padding: 8px;
+}
+
+pre {
+    padding: 1em;
+    background-color: rgb(240,240,250);
+}
+
