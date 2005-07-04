@@ -1,4 +1,11 @@
 
+04 Jul 2005  Tomas Styblo  <tripie@cpan.org>
+  * Version 1.03 has been released.
+
+08 Mar 2005  Radek Jakoubek  <spartakus.rj@email.cz>
+  * Fix an icon-blinking related memory leak. (in draw_icon())
+
+
 21 Feb 2004  Tomas Styblo  <tripie@cpan.org>
   * An important warning that all files in the activation directory
     are deleted has been added to the configuration dialog.

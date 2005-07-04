@@ -472,6 +472,9 @@ static void draw_icon(gint i, gboolean state)
                 pix_sec);
         but->type = 0; /* disable auto hide */
         
+        gkrellm_destroy_piximage(pix_prim);
+        gkrellm_destroy_piximage(pix_sec);
+		
         if (but) {
             g_array_index(trayicons, item_t, i).icon_state = state;
             g_array_index(trayicons, item_t, i).but = but;
